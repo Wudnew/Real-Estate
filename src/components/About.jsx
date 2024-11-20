@@ -18,22 +18,22 @@ function About() {
    <div className='flex flex-col items-center md:items-start mt-10 text-gray-600'>
    <div className='grid grid-cols-2 gap-6 md:gap-10 w-full 2xl:pr-28'>
    <div>
-    <p className='text-4xl font-medium text-gray-800'>10+</p>
+    <p className='text-4xl font-medium text-gray-800'>22+</p>
     <p>Years of Exellence</p>
    </div>
 
    <div>
-    <p className='text-4xl font-medium text-gray-800'>12+</p>
+    <p className='text-4xl font-medium text-gray-800'>30+</p>
     <p>Project Completed</p>
    </div>
 
    <div>
-    <p className='text-4xl font-medium text-gray-800'>20+</p>
+    <p className='text-4xl font-medium text-gray-800'>24+</p>
     <p>Mn. Sq. Ft. Delivered</p>
    </div>
 
    <div>
-    <p className='text-4xl font-medium text-gray-800'>25+</p>
+    <p className='text-4xl font-medium text-gray-800'>20+</p>
     <p>Ongoing Projects</p>
    </div>
    </div>
