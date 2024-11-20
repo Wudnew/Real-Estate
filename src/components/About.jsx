@@ -28,7 +28,7 @@ function About() {
    </div>
 
    <div>
-    <p className='text-4xl font-medium text-gray-800'>24+</p>
+    <p className='text-4xl font-medium text-gray-800'>22+</p>
     <p>Mn. Sq. Ft. Delivered</p>
    </div>
 
